@@ -4,6 +4,12 @@ EchoDwat is a [Rust](http:/www.rust-lang.org) implementation of the echo CLI com
 
 ## Documentation
 
+To install EchoDwat:
+
+```shell
+cargo install echodwat
+```
+
 To run EchoDwat:
 
 ```shell
